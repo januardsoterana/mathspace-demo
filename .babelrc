@@ -1,0 +1,27 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "styled-jsx": {}
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-flow-strip-types",
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "components": "./components",
+          "utils": "./utils",
+          "pages": "./pages",
+          "panels": "./panels",
+          "banners": "./banners",
+          "public": "./public"
+        }
+      }
+    ]
+  ]
+}

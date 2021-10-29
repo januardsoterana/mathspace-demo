@@ -1,0 +1,27 @@
+[
+  {
+    "title": "teacher reports",
+    "colour": "Java",
+    "allowedCountries": ["US"],
+    "active": true,
+    "desktopText": "We've launched new teacher reports!",
+    "mobileText": ["We've launched new teacher reports!"],
+    "tracker": "teacher-reports",
+    "ctaText": "Learn More",
+    "ctaLink": "https://blog.mathspace.co/introducing-the-new-suite-of-reports/"
+  },
+  {
+    "title": "T20 winners",
+    "colour": "Mountain Meadow",
+    "allowedCountries": ["AU"],
+    "active": true,
+    "desktopText": "We're pleased to announce our Transformative 20 winners for 2019",
+    "mobileText": [
+      "We're pleased to announce our",
+      "Transformative 20 winners for 2019"
+    ],
+    "tracker": "transformative-20",
+    "ctaText": "Learn More",
+    "ctaLink": "https://mathspace.co/au/transformative20"
+  }
+]

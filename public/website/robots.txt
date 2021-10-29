@@ -1,0 +1,95 @@
+User-agent: *
+
+Allow: /$
+
+Allow: /schools
+
+Allow: /schools/
+
+Allow: /curriculum
+
+Allow: /curriculum/
+
+Allow: /au
+
+Allow: /au/
+
+Allow: /au/teacher
+
+Allow: /au/teacher/
+
+Allow: /au/coaching
+
+Allow: /au/coaching/
+
+Allow: /au/curriculum
+
+Allow: /au/curriculum/
+
+Allow: /au/teachingremotely
+
+Allow: /au/diagnostic/
+
+Allow: /au/diagnostic/
+
+Allow: /au/transformative20
+
+Allow: /au/customer-stories
+
+Allow: /au/customer-story
+
+Allow: /us
+
+Allow: /us/
+
+Allow: /us/teachingremotely
+
+Allow: /us/curriculum
+
+Allow: /us/curriculum/
+
+Allow: /new-workbook
+
+Allow: /new-workbook/
+
+Allow: /coronavirus
+
+Allow: /weekly-insights
+
+Allow: /weekly-insights/
+
+Allow: /careers
+
+Allow: /careers/
+
+Allow: /careers/engineering
+
+Allow: /careers/engineering/
+
+Allow: /accounts/login/
+
+Allow: /jsi18n/
+
+Allow: /graphql/public/
+
+Allow: /learn/
+
+Allow: /ebook/
+
+Allow: /ebook
+
+Allow: /public/
+
+Allow: /signup/join-class/
+
+Allow: /signup/teacher/
+
+Allow: /sitemap.xml
+
+Allow: /curriculum/mapping/
+
+Allow: /website/images/common/mathspace-devices-preview.png
+
+Disallow: /
+
+Sitemap: https://mathspace.co/sitemap.xml

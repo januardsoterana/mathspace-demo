@@ -1,0 +1,61 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3965332, 2020-10-27T00:10:21-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Gilroy-Bold by Radomir Tinkov
+ * URL: https://www.myfonts.com/fonts/radomir-tinkov/gilroy/bold/
+ * Copyright: Copyright &amp;#x00A9; 2016 by Radomir Tinkov. All rights reserved.
+ *
+ * Webfont: AvenirLTPro-Roman by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-55-roman/
+ * Copyright: Copyright &amp;#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ * Webfont: AvenirLTPro-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-65-medium/
+ * Copyright: Copyright &amp;#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ * Webfont: AvenirLTPro-Heavy by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-85-heavy/
+ * Copyright: Copyright &amp;#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ *
+ *
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3c8194");
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('../fonts/Gilroy/Gilroy-Bold/font.woff2') format('woff2'), url('../fonts/Gilroy/Gilroy-Bold/font.woff') format('woff');
+  font-weight: 800;
+}
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src: url('../../website/fonts/Gilroy/Gilroy-Bold/Gilroy-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+}
+@font-face {
+  font-family: 'AvenirLTPro';
+  src: url('../fonts/Avenir/AvenirLTPro-Heavy/font.woff2') format('woff2'), url('../fonts/Avenir/AvenirLTPro-Heavy/font.woff') format('woff');
+  font-weight: 800;
+}
+@font-face {
+  font-family: 'AvenirLTPro';
+  src: url('../fonts/Avenir/AvenirLTPro-Medium/font.woff2') format('woff2'), url('../fonts/Avenir/AvenirLTPro-Medium/font.woff') format('woff');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AvenirLTPro';
+  src: url('../fonts/Avenir/AvenirLTPro-Roman/font.woff2') format('woff2'), url('../fonts/Avenir/AvenirLTPro-Roman/font.woff') format('woff');
+  font-weight: 400;
+}
+

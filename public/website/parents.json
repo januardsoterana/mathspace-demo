@@ -1,0 +1,554 @@
+[
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 3",
+    "classCode": "R4V8XV"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 4",
+    "classCode": "C8P38Q"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 5",
+    "classCode": "JYPDNW"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 6",
+    "classCode": "9993CX"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 7",
+    "classCode": "D98PRN"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 8",
+    "classCode": "KRU6G6"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 9",
+    "classCode": "UKTEHM"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 10",
+    "classCode": "YTJ689"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "Year 10A",
+    "classCode": "GBGQCJ"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "11 Essentials",
+    "classCode": "UTP7RW"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "12 Essentials",
+    "classCode": "PNQ7C3"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "11 General",
+    "classCode": "7TN4QD"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "12 General",
+    "classCode": "EHU7XR"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "11 Methods",
+    "classCode": "4XVXPK"
+  },
+  {
+    "country": "AU",
+    "region": "ACT, SA, NT, TAS",
+    "courseName": "12 Methods",
+    "classCode": "HMFHA6"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 3",
+    "classCode": "Y4AA7A"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 4",
+    "classCode": "9XBQG3"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 5",
+    "classCode": "FAWHT3"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 6",
+    "classCode": "WCWPT7"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 7",
+    "classCode": "KAVW47"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 8",
+    "classCode": "BDJ4P9"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 9 (5.2 & 5.3)",
+    "classCode": "V9W8X8"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 10 (5.2)",
+    "classCode": "N7YNRQ"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "Year 10 (5.3)",
+    "classCode": "UQRGHH"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "11 Standard",
+    "classCode": "BPAVE8"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "12 Standard",
+    "classCode": "GUYVJB"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "11 Advanced",
+    "classCode": "KDR9HJ"
+  },
+  {
+    "country": "AU",
+    "region": "NSW",
+    "courseName": "12 Advanced",
+    "classCode": "TNBE8A"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 3",
+    "classCode": "EP3VDA"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 4",
+    "classCode": "HPY9HJ"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 5",
+    "classCode": "3TB76T"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 6",
+    "classCode": "3F49G8"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 7",
+    "classCode": "HXF6Q4"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 8",
+    "classCode": "CW8P6E"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 9",
+    "classCode": "X983XA"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 10",
+    "classCode": "8G7797"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "Year 10A",
+    "classCode": "4BQY7R"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "11 General",
+    "classCode": "BY79NM"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "12 Further",
+    "classCode": "VUCBN3"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "11 Methods",
+    "classCode": "9TMJFJ"
+  },
+  {
+    "country": "AU",
+    "region": "VIC",
+    "courseName": "12 Methods",
+    "classCode": "7DCB7N"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 3",
+    "classCode": "UA7GBP"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 4",
+    "classCode": "YV7NJT"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 5",
+    "classCode": "QXJMEH"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 6",
+    "classCode": "QYGTPB"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 7",
+    "classCode": "VDXK4C"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 8",
+    "classCode": "B3NC8T"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 9",
+    "classCode": "FT6CCD"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 10",
+    "classCode": "Q6RXJM"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "Year 10A",
+    "classCode": "DJDTBF"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "11 Essentials",
+    "classCode": "YY4AKH"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "12 Essentials",
+    "classCode": "G9PEDR"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "11 General",
+    "classCode": "DEGXCR"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "12 General",
+    "classCode": "R7CHYP"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "11 Methods",
+    "classCode": "ARRPVH"
+  },
+  {
+    "country": "AU",
+    "region": "QLD",
+    "courseName": "12 Methods",
+    "classCode": "NV9MKE"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 3",
+    "classCode": "FJNPEJ"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 4",
+    "classCode": "KCJF6F"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 5",
+    "classCode": "F8D7BE"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 6",
+    "classCode": "T3BQXM"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 7",
+    "classCode": "QDKKWC"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 8",
+    "classCode": "7CCV9E"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 9",
+    "classCode": "XUREDC"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 10",
+    "classCode": "VYT4XD"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "Year 10A",
+    "classCode": "AF333T"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "11 Essentials",
+    "classCode": "TR4GDX"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "12 Essentials",
+    "classCode": "XNMTBQ"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "11 Applications",
+    "classCode": "HDA6TT"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "12 Applications",
+    "classCode": "WAF6FE"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "11 Methods",
+    "classCode": "TUN8TG"
+  },
+  {
+    "country": "AU",
+    "region": "WA",
+    "courseName": "12 Methods",
+    "classCode": "BBVCU8"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 3",
+    "classCode": "TMXX98"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 4",
+    "classCode": "AUNQRJ"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 5",
+    "classCode": "RV64VN"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 6",
+    "classCode": "FQXVV3"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 7",
+    "classCode": "PJBEYP"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Grade 8",
+    "classCode": "NHTW46"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Algebra I",
+    "classCode": "K8EA3T"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Algebra II",
+    "classCode": "6HYVYC"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Geometry",
+    "classCode": "THX4KV"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Pre-Calculus",
+    "classCode": "G9JJVN"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Math 1",
+    "classCode": "HEFPFY"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Math 2",
+    "classCode": "7A38H6"
+  },
+  {
+    "country": "US",
+    "region": "Common Core",
+    "courseName": "Math 3",
+    "classCode": "RGHKY8"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Grade 6",
+    "classCode": "GVVTCR"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Grade 7",
+    "classCode": "YUA873"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Grade 8",
+    "classCode": "JEAXJ4"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Algebra I",
+    "classCode": "HCFEAE"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Algebra II",
+    "classCode": "83JJWC"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Geometry",
+    "classCode": "XU8BAX"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Pre-Calculus",
+    "classCode": "C7RYNX"
+  },
+  {
+    "country": "US",
+    "region": "Virginia SOL",
+    "courseName": "Trigonometry",
+    "classCode": "HQVJPD"
+  }
+]

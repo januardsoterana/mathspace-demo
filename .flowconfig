@@ -1,0 +1,23 @@
+[ignore]
+.*/node_modules/config-chain
+.*/node_modules/npmconf
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+# Until such time as we have a solution to the above issue, we need to
+# maintain a list of top level modules present in our project.
+# see: https://github.com/facebook/flow/issues/5180
+module.name_mapper='^components\(.*\)$' -> '<PROJECT_ROOT>/components\1'
+module.name_mapper='^utils\(.*\)$' -> '<PROJECT_ROOT>/utils\1'
+module.name_mapper='^pages\(.*\)$' -> '<PROJECT_ROOT>/pages\1'
+module.name_mapper='^panels\(.*\)$' -> '<PROJECT_ROOT>/panels\1'
+module.name_mapper='^banners\(.*\)$' -> '<PROJECT_ROOT>/banners\1'
+module.name_mapper='^public\(.*\)$' -> '<PROJECT_ROOT>/public\1'
+
+[version]
+0.113.0

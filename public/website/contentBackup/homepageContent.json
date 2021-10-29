@@ -1,0 +1,268 @@
+[
+  {
+    "country": "AU",
+    "hero": {
+      "main": "Transform your classroom and personalise learning",
+      "body": "Mathspace gives your students step-by-step support as they work through interactive, curriculum-aligned content"
+    },
+    "difference": {
+      "title": "Why we're different",
+      "subTitle": "An adaptive maths platform with a real difference",
+      "body": "Challenge high achievers, support those who struggle and empower your students.",
+      "cards": [
+        {
+          "title": "Personalised Learning",
+          "body": "Our adaptive learning technology provides highly individualised learning paths for each student"
+        },
+        {
+          "title": "Real-time Student Data",
+          "body": "Teachers unlock real-time insights into how students are progressing, and which students need assistance"
+        },
+        {
+          "title": "Step-by-step Feedback",
+          "body": "Students get scaffolded hints and video lessons as they work, no matter which way they solve a problem"
+        }
+      ]
+    },
+    "teacher": {
+      "title": "How will I benefit as a Maths teacher?",
+      "description": "As a maths teacher you're committed to helping your students excel in maths and we created Mathspace to help you do that",
+      "list": [
+        {
+          "title": "Identify struggling students",
+          "items": [
+            {
+              "text": "Comprehensive student reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Monitor students' performance",
+          "items": [
+            {
+              "text": "Progress reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/2kKWPd4WTA1nNLdYb5QlJd/5f677c5abe96d236141183f4909fa5f8/progress-report.svg"
+            },
+            {
+              "text": "Actionable insights",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/7tmD3XLVkQWTzR0mMxX8TO/6822014ed2dc1b8fe9688141db843416/actionable-insights.svg"
+            },
+            {
+              "text": "Real-time activity reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/4ErLA6gMa2R33ZHW5wu6dT/2bc24f1d8d2e736edfd2338e46d47246/rt-activity-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Set tasks in advance",
+          "items": [
+            {
+              "text": "Task Templates",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/1FuHNZ5eelmrMq7uZyFPo0/42cc3ad5f93c259c77cb16f2d654b53f/task-templates.svg"
+            },
+            {
+              "text": "Assignable tasks from reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/40frKsiBZL3IrW5jzLu1BP/db0f5aa688fec34d3d792eb5e82ac111/assignable-tasks-from-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Spend less time marking",
+          "items": [
+            {
+              "text": "Automated marking at every step",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/4pfJ5j1TbNpzcPa1vAcJcl/2bd683e6e8805261f1d9beb7946e2d39/automated-grading.svg"
+            }
+          ]
+        }
+      ],
+      "testimony": {
+        "info": "Lauren Borschmann, Xavier College Burke Hall, VIC",
+        "body": "It makes the ideal real! I can differentiate effectively and I can support students to drive their own learning. This ultimately helps to build intrinsic motivation towards maths",
+        "image": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+      }
+    },
+    "student": {
+      "title": "Why students love Mathspace",
+      "description": "Many students get anxious about getting their maths answers wrong. We created Mathspace to show students there’s a different way. By giving step-by-step support, students feel safe to make mistakes, learn from them and ultimately develop a growth mindset",
+      "list": [
+        {
+          "title": "Build confidence",
+          "items": [
+            {
+              "text": "Adaptive technology that tailors content to where students are at",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/6OzdCGqvvCaIWKHx9eeTEA/a3d8853683d4bd233048c1e50e9e773c/build-confidence.svg"
+            }
+          ]
+        },
+        {
+          "title": "Get instant feedback",
+          "items": [
+            {
+              "text": "Progress ticks to show students that they’re on track",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/GgUS4GbqSGOlfrsA0xtDF/389efd037a686479a1318b0e84487a3d/instant-feedback.svg"
+            }
+          ]
+        },
+        {
+          "title": "Get step-by-step support",
+          "items": [
+            {
+              "text": "Hints and next step support at every step of the solution",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/6TsYHh792gGXD3S7PblwO9/b026622cd097148e3b0b0f6ffa14746b/step-by-step-support.svg"
+            }
+          ]
+        },
+        {
+          "title": "Watch video tutorials",
+          "items": [
+            {
+              "text": "14,000+ video lessons created by math teachers",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/7wqsi76Ei0XzfbjrNJnR4C/5592fc034979bb2710a4b3b2042ffeea/video-tutorials.svg"
+            }
+          ]
+        }
+      ],
+      "testimony": {
+        "info": "Student from Hunter School of Performing Arts, NSW",
+        "body": "I love how it teaches you with videos and hints to help you think. It is a great tool to help you learn fast and efficiently",
+        "image": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+      }
+    },
+    "footerTitle": "Access the power of Personalised Maths Teaching"
+  },
+  {
+    "country": "US",
+    "hero": {
+      "main": "Transform your classroom and personalize learning",
+      "body": "Mathspace gives your students step-by-step support as they work through interactive, standards-aligned content"
+    },
+    "difference": {
+      "title": "Why we're different",
+      "subTitle": "An adaptive math platform with a real difference",
+      "body": "Challenge high achievers, support those who struggle and empower your students.",
+      "cards": [
+        {
+          "title": "Personalized Learning",
+          "body": "Our adaptive learning technology provides highly individualized learning paths for each student"
+        },
+        {
+          "title": "Interactive Textbooks",
+          "body": "Access our standards-aligned curriculum, and see lessons brought to life through videos, investigations and hands-on GeoGebra applets"
+        },
+        {
+          "title": "Step-by-step Feedback",
+          "body": "Students can show their work and get scaffolded hints and video lessons along the way, no matter how they solve the problem"
+        }
+      ]
+    },
+    "teacher": {
+      "title": "How will I benefit as a Math teacher?",
+      "description": "As a math teacher you’re committed to helping your students excel in mathematics and we created Mathspace to help you do that.",
+      "list": [
+        {
+          "title": "Identify struggling students",
+          "items": [
+            {
+              "text": "Comprehensive student reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Monitor students' performance",
+          "items": [
+            {
+              "text": "Progress reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/2kKWPd4WTA1nNLdYb5QlJd/5f677c5abe96d236141183f4909fa5f8/progress-report.svg"
+            },
+            {
+              "text": "Actionable insights",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/7tmD3XLVkQWTzR0mMxX8TO/6822014ed2dc1b8fe9688141db843416/actionable-insights.svg"
+            },
+            {
+              "text": "Real-time activity reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/4ErLA6gMa2R33ZHW5wu6dT/2bc24f1d8d2e736edfd2338e46d47246/rt-activity-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Assign tasks in advance",
+          "items": [
+            {
+              "text": "Task Templates",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/1FuHNZ5eelmrMq7uZyFPo0/42cc3ad5f93c259c77cb16f2d654b53f/task-templates.svg"
+            },
+            {
+              "text": "Assignable tasks from reports",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/40frKsiBZL3IrW5jzLu1BP/db0f5aa688fec34d3d792eb5e82ac111/assignable-tasks-from-reports.svg"
+            }
+          ]
+        },
+        {
+          "title": "Spend less time grading",
+          "items": [
+            {
+              "text": "Automated grading at every step",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/4pfJ5j1TbNpzcPa1vAcJcl/2bd683e6e8805261f1d9beb7946e2d39/automated-grading.svg"
+            }
+          ]
+        }
+      ],
+      "testimony": {
+        "info": "Jenna Ross, Knox Middle School, Rowan Salisbury School District",
+        "body": "Mathspace has really aided growth throughout my class. I feel like there are two teachers and one is available 24/7 for students! My students are able to accomplish more than they had prior to implementing the program. I was hesitant to start Mathspace, but this quickly changed when I was exposed to all the amazing things that the program offers! It has helped me truly meet the needs of ALL my learners!",
+        "image": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+      }
+    },
+    "student": {
+      "title": "Why students love Mathspace",
+      "description": "Many students get anxious about getting their math answers wrong. We created Mathspace to show students there’s a different way. By giving step-by-step support, students feel safe to make mistakes, learn from them and ultimately develop a growth mindset.",
+      "list": [
+        {
+          "title": "Build confidence",
+          "items": [
+            {
+              "text": "Adaptive technology that tailors content to where students are at",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/6OzdCGqvvCaIWKHx9eeTEA/a3d8853683d4bd233048c1e50e9e773c/build-confidence.svg"
+            }
+          ]
+        },
+        {
+          "title": "Get instant feedback",
+          "items": [
+            {
+              "text": "Progress checks to show students that they’re on track",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/GgUS4GbqSGOlfrsA0xtDF/389efd037a686479a1318b0e84487a3d/instant-feedback.svg"
+            }
+          ]
+        },
+        {
+          "title": "Get step-by-step support",
+          "items": [
+            {
+              "text": "Hints and next step support at every step of the solution",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/6TsYHh792gGXD3S7PblwO9/b026622cd097148e3b0b0f6ffa14746b/step-by-step-support.svg"
+            }
+          ]
+        },
+        {
+          "title": "Watch video tutorials",
+          "items": [
+            {
+              "text": "14,000+ video lessons created by math teachers",
+              "icon": "//images.ctfassets.net/24zo6qqiahlr/7wqsi76Ei0XzfbjrNJnR4C/5592fc034979bb2710a4b3b2042ffeea/video-tutorials.svg"
+            }
+          ]
+        }
+      ],
+      "testimony": {
+        "info": "Student from Grace M. Davis High School",
+        "body": "What I like about Mathspace is that it really helps me to solve problems by giving hints and videos as I work",
+        "image": "//images.ctfassets.net/24zo6qqiahlr/OpLE3sKN12Y246pojjh4p/3af3f763d7f5d7b746adfa66d2d1398e/student-reports.svg"
+      }
+    },
+    "footerTitle": "Access the Power of Personalized Math Teaching"
+  }
+]
